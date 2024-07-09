@@ -3,5 +3,7 @@ README
 A project to analyze scoring performance of players in the top five soccer leagues
 using advanced scoring statistics.
 
+The project uses a Jupyter Notebook.
+
 Data from Opta via fbref.com.
 
